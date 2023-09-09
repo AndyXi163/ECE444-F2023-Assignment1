@@ -10,3 +10,8 @@ Q3
 ![alt text](https://github.com/AndyXi163/ECE444-F2023-Assignment1/blob/main/A1_3_1.png)
 Q4
 ![alt text](https://github.com/AndyXi163/ECE444-F2023-Assignment1/blob/main/A1_4_1.png)
+Q5
+![alt text](https://github.com/AndyXi163/ECE444-F2023-Assignment1/blob/main/A1_5_1.png)
+![alt text](https://github.com/AndyXi163/ECE444-F2023-Assignment1/blob/main/A1_5_2.png)
+![alt text](https://github.com/AndyXi163/ECE444-F2023-Assignment1/blob/main/A1_5_3.png)
+![alt text](https://github.com/AndyXi163/ECE444-F2023-Assignment1/blob/main/A1_5_4.png)
