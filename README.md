@@ -8,3 +8,5 @@ Q2
 ![alt text](https://github.com/AndyXi163/ECE444-F2023-Assignment1/blob/main/A1_2_1.png)
 Q3
 ![alt text](https://github.com/AndyXi163/ECE444-F2023-Assignment1/blob/main/A1_3_1.png)
+Q4
+![alt text](https://github.com/AndyXi163/ECE444-F2023-Assignment1/blob/main/A1_4_1.png)
